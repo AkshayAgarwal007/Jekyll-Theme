@@ -1,0 +1,56 @@
+
+name: Akshay Agarwal
+
+description: Programmer, Entrepreneur from Earth
+
+avatar: https://avatars.githubusercontent.com/u/8170214?v=3
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: AkshayAgarwal007
+  instagram:
+  linkedin: akshay-agarwal-782018a4
+  pinterest:
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+
+disqus:
+
+google_analytics:
+
+url:
+
+baseurl: ""
+
+permalink: /:title/
+
+version: v1.2.0
+
+kramdown:
+ 
+  input: GFM
+ 
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap 
+  - jekyll-feed 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
