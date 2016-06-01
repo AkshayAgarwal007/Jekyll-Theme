@@ -77,10 +77,22 @@ It is a remake of the famous Tic-Tac-Toe game using Pygame.
 
 ## Research Projects
 
-1. Integrating Wireless Sensor Network with the Internet of Things, Approaches, Challenges and Applications. [Wireless Sensor Networks/Internet of Things]
-2. A Survey of Wireless Sensor Networks. [Wireless Sensor Networks]
-3. Effects of Extrinsic Motivation on Intrinsic Motivation to learn. [Educational Psychology]
-4. A Study of the Various Learning Paradigms. [Educational Technology]
+### A Survey of Wireless Sensor Networks
+
+   A complete literature review of Wireless Sensor Networks including the study of networks from where the field started (SOSUS, DSN) , study of all the literature works concerning various layers of the WSN protocol stack, study of all the developments that took place because of the need of integrating WSN with the Internet (making IEEE 802.15.4 TCP/IP compatible/6LoWPAN,  ZigBee IP etc.) , use of WSNs in Home Automation Systems (Thread, Z-Wave, EnOcean) and new communication technologies like LoRaWAN, Sigfox etx for Low Power Wide Area Network.
+   
+### Integrating Wireless Sensor Network with the Internet of Things, Approaches, Challenges and Applications
+
+   A study and analysis of the various integration approaches (Gateway, Overlay, Hybrid) and technologies like 6LoWPAN, challenges facing the integration and which approach is suitable depending upon the application.
+
+### Effects of Extrinsic Motivation on Intrinsic Motivation to learn (Educational Psychology)
+
+A study on how extrinsic motivation affects intrinsic motivation(overjustification effect) to learn among students and how it is wrongly put to use in Indian Educational System.
+
+
+### A Study of the Various Learning Paradigms (Educational Technology)
+
+A study of various learning paradigms like Behaviorism, Constructivism, Constructionism, Minimally Invasive Education etc.
 
 
 ## Contact me

@@ -37,23 +37,50 @@ Co-Founder, The Syntax Club
 ## Achievements
 
 
-* [**Microsoft Imagine Cup National Finals India 2016 Runners Up (Innovation Category)**](https://news.microsoft.com/en-in/microsoft-announces-india-winners-of-the-14th-edition-of-imagine-cup/#sm.00008z5pm019sbdazyadt8jlmmj73)
+* [**Microsoft Imagine Cup National Finals India 2016 Runners Up (Innovation Category)**](https://news.microsoft.com/en-in/microsoft-announces-india-winners-of-the-14th-edition-of-imagine-cup/#sm.00008z5pm019sbdazyadt8jlmmj73) 
+   
+   Achieved the runners up position at Microsoft Imagine Cup National Finals India 2016 (Innovation Category) for SmartBin (Garbage Monitoring System).
 
-* **First Prize - Appathon Competition at Techkriti (IIT Kanpur's TechFest)**: 
+***
+
+* [**First Prize - Appathon Competition at Techkriti (IIT Kanpur's TechFest)**](https://www.facebook.com/NIITUniv/photos/a.388135008449.167699.183447273449/10153453704853450/?type=3&theater)
+ 
     Won the IOT based Appathon competition at Techkriti (IIT Kanpur's TechFest) organised by Juniper Networks for the SWM (Smart Water Management) App.
+
+***
     
 * **Awarded 100+(A+) Scholarship at NIIT University (2014-2015)**: Awarded 100+(A+) Scholarship for academic performance (SGPA 10 in 1st Sem, SGPA 9.57 in 2nd Sem and a CGPA of 9.78 in 1st Year ) 
 
+***
+
 * **Awarded 100% Scholarship at NIIT University (2013-2017)**
 
-* **National Cyber Olympiad 2012**: Regional Level (Gold Medal), State Level (Rank 13)
+***
+
+* **National Cyber Olympiad 2012**
+
+    Regional Level (Gold Medal), State Level (Rank 13)
+ 
+ ***
 
 * [**TCS IT WIZ 2012 Finalist (Kolkata Region)**](http://www.tcsitwiz.com/report2012/kolkata2012.html)
 
+***
 
-* **Certificate of Merit by C.B.S.E**: Honoured with a certificate of Merit by C.B.S.E for obtaining CGPA 10 in 10th standard.
+* **Indipex 2011 quiz competition organised by India Post and PCI Finalist  (East Zone)**
+
+***
+
+* **GREEN Olympiad 2010 organised by TERI - Rank1 (Regional Level)**
     
+***
 
-### Contact me
+* **Certificate of Merit by C.B.S.E**: 
+
+   Honoured with a certificate of Merit by C.B.S.E for obtaining CGPA 10 in 10th standard.
+
+  
+
+## Contact me
 
 [agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
