@@ -4,16 +4,21 @@ title: About
 permalink: /about/
 ---
 
-I love programming. I love persuading others to love it. I try my best to learn everything that's there in the field of Computer Science. I develop apps that can help the society and people around me in some way. My field of interest includes Internet of Things, Wireless Sensor Networks, Artificial Intelligence, Virtual Reality, NoSQL databases and Educational Technology. 
+I love programming. I love persuading others to love it. I try my best to learn everything that's there in the field of Computer Science. I develop apps that can help the society and people around me in some way. My field of interest includes Internet of Things, Wireless Sensor Networks, Artificial Intelligence, Virtual Reality, NoSQL databases and Educational Technology. I like to tinker around with latest gadgets and hence I'm a keen observer of projects on Kickstarter and have backed a few of them. 
 
 In my free time I read about the possibilities of Alien life and the origin of the Universe and my topics of interest include Alcubierre Drive, Multiverse Theory and UFO Conspiracy Theories. Last but not the least, I love watching football and I'm a big fan of Jose Mourinho and Fernando Torres.
 
+Jack Ma and Elon Musk are my inspirations. 
 
 ## Education
 
 * B.Tech (Computer Science and Engineering), NIIT University, Rajasthan.
 * HSC, CBSE board with 91.8% in 2013, Kendriya Vidyalaya Barrackpore Army,  Kolkata
 * SSC, CBSE board with CGPA 10 in 2011, Kendriya Vidyalaya Barrackpore Army, Kolkata
+
+## Roles
+
+Co-Founder, The Syntax Club 
 
 ## Skills
 
@@ -32,7 +37,7 @@ In my free time I read about the possibilities of Alien life and the origin of t
 ## Achievements
 
 
-* **Microsoft Imagine Cup National Finals India 2016 Runners Up (Innovation Category)**
+* [**Microsoft Imagine Cup National Finals India 2016 Runners Up (Innovation Category)**](https://news.microsoft.com/en-in/microsoft-announces-india-winners-of-the-14th-edition-of-imagine-cup/#sm.00008z5pm019sbdazyadt8jlmmj73)
 
 * **First Prize - Appathon Competition at Techkriti (IIT Kanpur's TechFest)**: 
     Won the IOT based Appathon competition at Techkriti (IIT Kanpur's TechFest) organised by Juniper Networks for the SWM (Smart Water Management) App.
@@ -43,14 +48,10 @@ In my free time I read about the possibilities of Alien life and the origin of t
 
 * **National Cyber Olympiad 2012**: Regional Level (Gold Medal), State Level (Rank 13)
 
-* **TCS IT WIZ 2012 Finalist (Kolkata Region)**
+* [**TCS IT WIZ 2012 Finalist (Kolkata Region)**](http://www.tcsitwiz.com/report2012/kolkata2012.html)
 
 
 * **Certificate of Merit by C.B.S.E**: Honoured with a certificate of Merit by C.B.S.E for obtaining CGPA 10 in 10th standard.
-    
-
-
-
     
 
 ### Contact me

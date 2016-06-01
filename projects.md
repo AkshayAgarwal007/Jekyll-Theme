@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 ### [TuxMania](https://github.com/tux4kids/tuxmania) 
-Tuxmania is a 2D Math Drill and Vocabulary/Typing enhancement game based on Phaser. *(Current, Tux4kids)*
+Tuxmania is a 2D Math Drill and Vocabulary/Typing enhancement game based on Phaser. (Current, Tux4kids)
 
 ***
 
 ### [Project Dranzer]("#") 
 
-(*Current*)
+(Current)
 
 ***
 
@@ -26,18 +26,18 @@ Jekyll-Mono is a Jekyll powered Github Profile cum Blog theme.
 
 ***
 
-### [SmartBin]("#")
+### [SmartBin]("https://news.microsoft.com/en-in/microsoft-announces-india-winners-of-the-14th-edition-of-imagine-cup/#sm.00008z5pm019sbdazyadt8jlmmj73")
 An IoT and Wireless Sensor Network based Smart Garbage Monitoring System using NRF based network.
-*(Team, Project Lead/Network Engineer)*
+(Team, Project Lead/Network Engineer)
 
-*Runners Up, Microsoft Imagine Cup National Finals India 2016 (Innovation Category)*
+**Runners Up, Microsoft Imagine Cup National Finals India 2016 (Innovation Category)**
 
 ***
 
-### [Smart Water Management]("#")
-An IoT based Smart Water Level Monitoring and Management System using Raspberry Pi. *(Team, Network Engineer/Software Developer)*
+### [SWM (Smart Water Management)]("#")
+An IoT based Smart Water Level Monitoring and Management System using Raspberry Pi. (Team, Network Engineer/Software Developer)
 
-*Winner IoT based Appathon Competition at IIT Kanpur organised by Juniper Networks*
+**Winner IoT based Appathon Competition at IIT Kanpur organised by Juniper Networks**
 
 ***
 
@@ -54,7 +54,7 @@ Developed the website for my non-profit organisation **The Syntax Club** using B
 ### [ OPEC (One Pi Every Community) ]("") 
 Inspired by the Negroponte's One Laptop Per Child and the ongoing coding revolution led by organisations like Raspberry Pi Foundation, Code.org, Coderdojo, etc and after seeing the plight of the underprivileged kids and lack of CS Education in Indian Educational System started project OPEC, where I designed a customised Raspberry Pi computer and a small curriculum for teaching coding consisting of Basics of Computer, LOGO, Blockly, Python, for 4-11 yrs kids. Donated the RPi Computer to an orphpanage and conducted workshops every weekend and taught basics of computer and coding to a group of 60 underprivileged kids over a span of two months in the summer of 2015 alongwith [Abhishek Kumar]() and [Sumit Mukherjee](). 
 
-We also donated notebooks and had to resort to the traditional BlackBoard teaching method as a single device was not enough but the kids practiced it in turns over the week. [Sumit]("") carried on with the workshops after summer vacations and an Hour of Code was also conducted during the Computer Science Week. *(Team, Project Lead)*
+We also donated notebooks and had to resort to the traditional BlackBoard teaching method as a single device was not enough but the kids practiced it in turns over the week. [Sumit]("") carried on with the workshops after summer vacations and an Hour of Code was also conducted during the Computer Science Week. (Team, Project Lead)
 
 ***
 
