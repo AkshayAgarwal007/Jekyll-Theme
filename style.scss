@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: darken($sky,10);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: darken($sky,20);
   }
 }
 
@@ -282,5 +282,4 @@ footer {
 }
 
 @import "highlights";
-@import "svg-icons";
 @import "jekyll-mono";
