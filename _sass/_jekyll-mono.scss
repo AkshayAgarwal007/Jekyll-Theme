@@ -1,6 +1,7 @@
 /*************************/
-    /* JEKYLL-MONO */
+    /* JEKYLL-mono-color */
 /************************/
+
 
 /* 
     *Title
@@ -11,25 +12,30 @@
       color: $white;
       text-decoration: none;
     	cursor: pointer;
-      &:hover, &:active {
-        color: darken($sky,20);
+      &:hover{
+        color: darken($navbar-hover-color,20);
       }
     }
 }
 
  .post {
         a {
-         color: $sky;
-         &:hover, &:active {
-           color: darken($sky,20);
+         color: $mono-color;
+         &:hover{
+           color: darken($mono-color,20);
          }
      }
  }
  
- .header-link {
-     color:$hl-color;
+ .post-heading {
+        a {
+         color: $hl-color;
+         &:hover{
+           color: darken($hl-color,20);
+         }
+     }
  }
-
+ 
 
 /*
     *Buttons
@@ -68,9 +74,9 @@ button:focus,
 .button.button-primary,
 button.button-primary,
  {
-    color: $sky;
+    color: $mono-color;
     background-color: transparent;
-    border-color: $sky; 
+    border-color: $mono-color; 
 }
     
 .button.button-primary:hover,
@@ -79,8 +85,8 @@ button.button-primary:hover,
 button.button-primary:focus {
 
     color: #FFF;
-    background-color: $sky;
-    border-color: $sky; 
+    background-color: $mono-color;
+    border-color: $mono-color; 
 }
 
 /*
@@ -90,7 +96,7 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px solid white;
-  background-color:$sky;
+  background-color:$mono-color;
 }
 
 .intro-header .post-heading {
@@ -131,18 +137,18 @@ button.button-primary:focus {
     padding: 30px 0 15px;
 }
 
+
 /* 
     *svg-icons
     
 */
 
-
 .svg-icon {
     a {
-      color:darken($sky,10);
+      color:darken($mono-color,10);
       cursor: pointer;
-      &:hover, &:active {
-        color: darken($sky,20);
+      &:hover {
+        color: darken($mono-color,20);
       }
     }
 }
@@ -275,7 +281,7 @@ button.button-primary:focus {
 
 .ch-info p a {
 	display: block;
-	color: $sky;
+	color: $mono-color;
 	font-style: normal;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -286,7 +292,7 @@ button.button-primary:focus {
 }
 
 .ch-info p a:hover {
-	color: darken($sky,10%);
+	color: darken($mono-color,10%);
 }
 
 .ch-item:hover .ch-info-front {
